@@ -140,7 +140,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-Check out the app live here 👉 [EcoPredict AI - Streamlit App](https://your-streamlit-app-url)
+Check out the app live here 👉 [EcoPredict AI - Streamlit App](https://echopredict-ai.streamlit.app/)
 
 ---
 
