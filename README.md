@@ -207,7 +207,6 @@ Licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more det
 **Aayush Kumar**
 📫 Email: \[[your-email@example.com](mailto:your-email@example.com)]
 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-📁 Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
 ---
 
