@@ -1,6 +1,7 @@
 # 🌱 EcoPredict AI - Greenhouse Gas Emission Forecasting
 
-![EcoPredict AI](assets/ecopredict_banner.png)
+
+![ChatGPT Image Jul 3, 2025, 01_18_35 AM](https://github.com/user-attachments/assets/3b09e24a-0cd6-46af-984d-274d629829f9)
 
 **EcoPredict AI** is an advanced web-based application for predicting greenhouse gas (GHG) emissions in supply chains using artificial intelligence and machine learning technologies. Built with **Streamlit** and powered by a **Linear Regression model** trained on **EPA's official supply chain emission data from 2010–2016**, the application provides intelligent predictions for emission factors across various US industries and commodities.
 
