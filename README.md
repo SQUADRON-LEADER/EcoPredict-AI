@@ -189,7 +189,14 @@ We welcome all contributions, ideas, and suggestions!
 
 ## 📄 License
 
-Licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+Licensed under the **MIT License**.
+
+Copyright (c) 2025 Aayush Kumar
+
+Permission is hereby granted to use, copy, modify, and distribute this software for any purpose with or without fee, provided that the above copyright notice appears in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
 
 ---
 
