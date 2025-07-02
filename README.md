@@ -1,4 +1,4 @@
-# 🌱 EcoPredict AI - Greenhouse Gas Emission Forecasting
+## 🌱 EcoPredict AI - Greenhouse Gas Emission Forecasting
 
 
 ![ChatGPT Image Jul 3, 2025, 01_18_35 AM](https://github.com/user-attachments/assets/3b09e24a-0cd6-46af-984d-274d629829f9)
@@ -47,6 +47,15 @@ It serves as both an educational tool and practical solution for environmental i
 * 🌐 Deployable via Streamlit Cloud or localhost
 
 ---
+
+## 📸 Screenshots
+![Screenshot 2025-07-03 011100](https://github.com/user-attachments/assets/1135d00e-f797-446f-bad9-92647c0eeb00)
+![Screenshot 2025-07-03 011111](https://github.com/user-attachments/assets/02df404f-bff8-408b-81f8-6e889f5c4bb6)
+![Screenshot 2025-07-03 011119](https://github.com/user-attachments/assets/be9bb5f2-c39b-402e-b236-1b15615f7156)
+![Screenshot 2025-07-03 011218](https://github.com/user-attachments/assets/356b5711-6f57-4029-98d7-492f0d90a2f2)
+![Screenshot 2025-07-03 011235](https://github.com/user-attachments/assets/0617fc78-d269-4ed2-9f84-4288216b5525)
+e071fb800)
+![Screenshot 2025-07-03 011243](https://github.com/user-attachments/assets/8119d659-815b-45d8-94f6-416b84ebe78c)
 
 ## 📈 Visual Insights
 
