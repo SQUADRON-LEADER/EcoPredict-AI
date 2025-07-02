@@ -205,7 +205,7 @@ Licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more det
 ## 👨‍💻 Author
 
 **Aayush Kumar**
-📫 Email: \[[your-email@example.com](mailto:your-email@example.com)]
+📫 Email: \[[aayush05.af@gmail.com](mailto:aayush05.af@gmail.com)]
 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
 ---
