@@ -1,6 +1,5 @@
 ## 🌱 EcoPredict AI - Greenhouse Gas Emission Forecasting
 
-
 ![ChatGPT Image Jul 3, 2025, 01_18_35 AM](https://github.com/user-attachments/assets/3b09e24a-0cd6-46af-984d-274d629829f9)
 
 **EcoPredict AI** is an advanced web-based application for predicting greenhouse gas (GHG) emissions in supply chains using artificial intelligence and machine learning technologies. Built with **Streamlit** and powered by a **Linear Regression model** trained on **EPA's official supply chain emission data from 2010–2016**, the application provides intelligent predictions for emission factors across various US industries and commodities.
@@ -50,11 +49,16 @@ It serves as both an educational tool and practical solution for environmental i
 
 ## 📸 Screenshots
 ![Screenshot 2025-07-03 011100](https://github.com/user-attachments/assets/1135d00e-f797-446f-bad9-92647c0eeb00)
+</br>
 ![Screenshot 2025-07-03 011111](https://github.com/user-attachments/assets/02df404f-bff8-408b-81f8-6e889f5c4bb6)
+</br>
 ![Screenshot 2025-07-03 011119](https://github.com/user-attachments/assets/be9bb5f2-c39b-402e-b236-1b15615f7156)
+</br>
 ![Screenshot 2025-07-03 011218](https://github.com/user-attachments/assets/356b5711-6f57-4029-98d7-492f0d90a2f2)
-![Screenshot 2025-07-03 011235](https://github.com/user-attachments/assets/0617fc78-d269-4ed2-9f84-4288216b5525)
-![Screenshot 2025-07-03 011243](https://github.com/user-attachments/assets/8119d659-815b-45d8-94f6-416b84ebe78c)
+</br>
+![Screenshot 2025-07-03 011235](https://github.com/user-attachments/assets/0617fc78-d269-4ed2-9f84-4288216b5525)</br>
+![Screenshot 2025-07-03 011243](https://github.com/user-attachments/assets/8119d659-815b-45d8-94f6-416b84ebe78c)</br>
+
 
 ## 📈 Visual Insights
 
@@ -225,5 +229,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 🔗 LinkedIn: [linkedin.com/in/aayush-kumar-146252314](https://www.linkedin.com/in/aayush-kumar-146252314/)
 
 ---
+
 
 > "The best way to predict the future is to design it sustainably." 🌏
